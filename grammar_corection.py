@@ -11,7 +11,7 @@ textToCorrect = 'telephonne appele apelle appelle'
 ''' HEADER FOR API CONNECTIONS '''
 spellCheck = {
     'Content-Type': 'application/x-www-form-urlencoded',
-    'Ocp-Apim-Subscription-Key': '80349415134845a296b74ed62a1cf9a0' }
+    'Ocp-Apim-Subscription-Key': 'AZURE_KEY' }
 ''' SPELL CHECK PARAMETERS '''
 params = parse.urlencode({
 'mode': 'spell',
