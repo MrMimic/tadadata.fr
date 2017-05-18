@@ -3,6 +3,10 @@
 Short codes for http://tadadata.fr/
 
 
-## webpage_scraping
+### webpage_scraping
 
 Short tutorial on how to scrp a page with Python (http://tadadata.fr/scraping-website/)
+
+### grammmar_correction
+
+Automatic text correction with Bing! spellCheck API
