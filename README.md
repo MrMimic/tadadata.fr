@@ -9,4 +9,4 @@ Short tutorial on how to scrp a page with Python (http://tadadata.fr/scraping-we
 
 ### grammmar_correction
 
-Automatic text correction with Bing! spellCheck API
+Automatic text correction with Bing! spellCheck API (http://tadadata.fr/bing-spellcheck-correction/)
