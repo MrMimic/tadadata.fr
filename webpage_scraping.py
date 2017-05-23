@@ -4,12 +4,13 @@
 from urllib import request
 from bs4 import BeautifulSoup
 
-''' scraping function '''
+''' Scraping function '''
 def scraping(URL):
 	pageResponse = request.urlopen(URL)
 	pageData = pageResponse.read()
 	return pageData
-	
+
+''' Parsing Function '''
 def parsing(pageData):
 	pageSoup = BeautifulSoup(pageData, 'html.parser')
 	rawRecette = pageSoup.find_all('div', attrs = {'class': 'm_content_recette_todo'})
