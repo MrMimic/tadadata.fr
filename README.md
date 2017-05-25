@@ -6,12 +6,12 @@ Short codes for http://tadadata.fr/
 
 ### webpage_scraping
 
-Short tutorial on how to scrap a webpage with Python 
+Short tutorial on how to scrap a webpage with Python.
 
 http://tadadata.fr/scraping-website/
 
 ### grammmar_correction
 
-Automatic text correction with Bing! spellCheck API 
+Python wrapper for automatic text correction with Bing! spellCheck API.
 
 http://tadadata.fr/bing-spellcheck-correction/
