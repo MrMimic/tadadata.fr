@@ -25,13 +25,13 @@ for line in coordinates:
 		lat.append(float(latitude))
 
 ''' Path from A to B to C ... '''
-gmap.plot(lon, lat, 'cornflowerblue', edge_width=5)
+#gmap.plot(lon, lat, 'cornflowerblue', edge_width=5)
 
 ''' And point map '''
 gmap.scatter(lon, lat, '#d041e0', size=5000, marker=False)
 
 ''' Google symbol '''
-# gmap.scatter(lon, lat, 'k', marker=True)
+#gmap.scatter(lon, lat, 'k', marker=True)
 
 ''' Heatmap '''
 gmap.heatmap(lon, lat)
