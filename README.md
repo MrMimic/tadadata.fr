@@ -15,3 +15,9 @@ http://tadadata.fr/scraping-website/
 Python wrapper for automatic text correction with Bing! spellCheck API.
 
 http://tadadata.fr/bing-spellcheck-correction/
+
+### french_cop_mapper
+
+Draw a map of French police stations.
+
+http://tadadata.fr/carte-gendarmeries/
