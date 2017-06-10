@@ -21,3 +21,9 @@ http://tadadata.fr/bing-spellcheck-correction/
 Draw a map of police stations in France and in French islands.
 
 http://tadadata.fr/carte-gendarmeries/
+
+### fuck_horoscope
+
+Gets huge amount of horoscope prediction with POST and plot stats on.
+
+http://tadadata.fr/hacking-horoscope/
