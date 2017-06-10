@@ -141,7 +141,7 @@ else:
 			except:
 				continue
 		parameters['i'] += 1
-		print('{} %\t{}'.format((parameters['i']*100)/parameters['horoscopeNumber'], date))
+		print('{} %\t\t\t{}'.format((parameters['i']*100)/parameters['horoscopeNumber'], date))
 	
 # End of requests Session
 session.close()
