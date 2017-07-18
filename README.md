@@ -1,6 +1,6 @@
 # tadadata.fr
 
-Short codes for http://tadadata.fr/
+Short codes and stuff for http://tadadata.fr/
 
 *********
 
