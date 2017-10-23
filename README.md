@@ -12,7 +12,7 @@ http://tadadata.fr/scraping-website/
 
 ### grammmar_correction
 
-Python wrapper for automatic text correction with Bing! spellCheck API.
+Python wrapper for automatic text correction with Microsoft Bing! spellCheck API.
 
 http://tadadata.fr/bing-spellcheck-correction/
 
