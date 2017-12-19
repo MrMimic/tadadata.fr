@@ -6,13 +6,13 @@ Short codes and stuff for http://tadadata.fr/
 
 ### webpage_scraping
 
-Short tutorial on how to index and scrap a web page with Python.
+Short tutorial on how to index and scrap a web page with Python3.
 
 http://tadadata.fr/scraping-website/
 
 ### grammmar_correction
 
-Python wrapper for automatic text correction with Microsoft Bing! spellCheck API.
+Python3 wrapper for automatic text correction with Microsoft Bing! spellCheck API.
 
 http://tadadata.fr/bing-spellcheck-correction/
 
