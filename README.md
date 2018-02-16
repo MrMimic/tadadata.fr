@@ -18,6 +18,6 @@ http://tadadata.fr/bing-spellcheck-correction/
 
 ### french_cop_mapper
 
-Draw a map of police stations in France and in French islands (google API).
+Draw a map of police stations in France and in French islands (with google API).
 
 http://tadadata.fr/carte-gendarmeries/
