@@ -6,7 +6,7 @@ Short codes for my website http://tadadata.fr/
 
 ### webpage_scraping
 
-Short tutorial on how to index and scrap a web page with Python3.
+Short tutorial on how to index and scrap a web page with Python.
 
 http://tadadata.fr/scraping-website/
 
